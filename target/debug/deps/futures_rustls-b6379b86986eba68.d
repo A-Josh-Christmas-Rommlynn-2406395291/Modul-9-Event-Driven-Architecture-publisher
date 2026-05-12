@@ -1,0 +1,9 @@
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\futures_rustls-b6379b86986eba68.d: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\client.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\mod.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\handshake.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\server.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libfutures_rustls-b6379b86986eba68.rmeta: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\client.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\mod.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\handshake.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\server.rs
+
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\lib.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\client.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\mod.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\common\handshake.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-rustls-0.26.0\src\server.rs:

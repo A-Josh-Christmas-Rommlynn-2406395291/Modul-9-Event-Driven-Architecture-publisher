@@ -1,0 +1,14 @@
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\serde-24b314e32c191f03.d: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\build\serde-df693f4fae75e6e9\out/private.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libserde-24b314e32c191f03.rlib: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\build\serde-df693f4fae75e6e9\out/private.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libserde-24b314e32c191f03.rmeta: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\build\serde-df693f4fae75e6e9\out/private.rs
+
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\build\serde-df693f4fae75e6e9\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\joshc\\Sem4\\Adpro\\tutorial8\\publisher\\target\\debug\\build\\serde-df693f4fae75e6e9\\out

@@ -1,0 +1,9 @@
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\jobserver-a81d0106459a03a5.d: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\error.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\windows.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libjobserver-a81d0106459a03a5.rlib: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\error.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\windows.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libjobserver-a81d0106459a03a5.rmeta: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\error.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\windows.rs
+
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\lib.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\error.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\jobserver-0.1.34\src\windows.rs:

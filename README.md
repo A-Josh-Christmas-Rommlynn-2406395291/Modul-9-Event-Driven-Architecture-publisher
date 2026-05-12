@@ -16,3 +16,11 @@ Since both publisher and subscriber use the same AMQP URL, it means they are con
 ### **RabbitMQ screenshot**
 
 **RabbitMQ screenshot:** ![RabbitMQ screen capture](/assets/images/screenshot-rabbit-mq.png)
+
+### **Proof that system has sent and processed the event
+
+**Screenshot: **
+
+Subscriber: ![Subscriber](/assets/images/the-program-result-of-subscriber-directory.png)
+
+Publisher: ![Subscriber](/assets/images/the-program-result-of-publisher-directory.png)

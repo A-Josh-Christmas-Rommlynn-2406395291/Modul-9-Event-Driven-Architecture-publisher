@@ -1,0 +1,11 @@
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\p12_keystore-0fbcf18889953538.d: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\codec.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\error.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\keystore.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\oid.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\pbes1.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\secret.rs
+
+C:\Users\joshc\Sem4\Adpro\tutorial8\publisher\target\debug\deps\libp12_keystore-0fbcf18889953538.rmeta: C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\lib.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\codec.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\error.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\keystore.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\oid.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\pbes1.rs C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\secret.rs
+
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\lib.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\codec.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\error.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\keystore.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\oid.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\pbes1.rs:
+C:\Users\joshc\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\p12-keystore-0.2.1\src\secret.rs:
