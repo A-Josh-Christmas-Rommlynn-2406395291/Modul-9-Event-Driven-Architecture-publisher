@@ -17,10 +17,18 @@ Since both publisher and subscriber use the same AMQP URL, it means they are con
 
 **RabbitMQ screenshot:** ![RabbitMQ screen capture](/assets/images/screenshot-rabbit-mq.png)
 
-### **Proof that system has sent and processed the event
+### **Proof that system has sent and processed the event**
 
 **Screenshot: **
 
 Subscriber: ![Subscriber](/assets/images/the-program-result-of-subscriber-directory.png)
 
 Publisher: ![Subscriber](/assets/images/the-program-result-of-publisher-directory.png)
+
+### **Proof that RabbitMQ has spike when running the publisher**
+
+**Second RabbitMQ screenshot:** ![RabbitMQ screen capture](/assets/images/screenshot-rabbit-mq-2.png)
+
+**Third RabbitMQ screenshot:** ![RabbitMQ screen capture](/assets/images/screenshot-rabbit-mq-3.png)
+
+**Explanation:** I see a yellow line spike that labeled **Publish** (which is the literal "heartbeat" of your publisher script), it tells us my publisher is likely a short-lived script that connects, sends a message, and then closes.
